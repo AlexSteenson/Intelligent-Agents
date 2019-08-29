@@ -1,0 +1,2 @@
+# Intelligent-Agents
+This project displays a single agent or multiple agents working together to perform a task (taking waste from a well and dumping it elsewhere) optimally. The agents must also make sure it has enough fuel to continue by refueling at a station. The aim of the project is to collect as much waste as possible in a given timeframe. The simulation stops when a tanker runs out of fuel. Not all wells produce the same amount of waste and each tanker can only hold a certian amount of waste, so the tanker must optimally decide what wells to visit. 
